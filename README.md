@@ -17,3 +17,7 @@ Basics installations required
 
 
 SVM with RBF kernel is clearly best by both accuracy and F1-score, so that is the model you should deploy in Streamlit
+
+
+
+<img width="1440" height="724" alt="Screenshot 2025-11-29 at 5 13 49 AM" src="https://github.com/user-attachments/assets/a3cfe87b-02a8-49a1-a303-cfa3a1a69d43" />
